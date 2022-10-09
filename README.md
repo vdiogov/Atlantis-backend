@@ -1,7 +1,5 @@
 # Atlantis
 
-Public OpenSource Queue manager
-
 Backend Python/Django
 
 Frontend Vue3-CLI
